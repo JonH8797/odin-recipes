@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    color: rgb(57, 25, 236);
+    font-size: 60px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 30px;
+    font-family: Verdana;
+    text-align: center;
+}
+
+img {
+    height: auto;
+    width: 600px;
+    position:relative; left:635px;
+}
+
+.cheese,
+.vodka{
+    color: rgb(13, 219, 106);
+    font-family: serif;
+    background-color: cornflowerblue;
+}
+
+.bread{
+    font-family: cursive;
+    background-color: blueviolet;
+    color: chocolate;
+}
